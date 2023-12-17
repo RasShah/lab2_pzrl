@@ -3,7 +3,7 @@
 #include <string.h>
 #include <math.h>
 #include <ctype.h>
-#include "oct.h"
+#include "hex.h"
 
 int hextodec(char * n)
 {
