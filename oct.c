@@ -20,7 +20,7 @@ int octtodec(const char * n)
 		}
 		else
 		{
-			printf("ERROR.\n");
+			printf("ERROR\n");
 			exit(1);
 		}
 	}
