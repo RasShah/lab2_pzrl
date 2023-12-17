@@ -15,9 +15,9 @@ void main()
 	char* num1 = NULL;
 	char* num2 = NULL;
 	char* operator = NULL;
-	char* hex;
-	char* oct;
-	char* bin;
+	char* hex = NULL;
+	char* oct = NULL;
+	char* bin = NULL;
 	getline(&input, &len, stdin);
 	if (strchr(input, '~') != NULL)
 	{
