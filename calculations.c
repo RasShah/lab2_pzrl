@@ -38,7 +38,7 @@ int bitoder(int n1, int n2)
 	return n1 | n2;
 }
 
-int tilde(const int n)
+int tilde(int int n)
 {
 	if (n == 0)
 		return 0;
