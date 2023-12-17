@@ -7,7 +7,7 @@
 
 int hextodec(char * n)
 {
-	int sum = 0, otrsum = 0 - sum;
+	int sum = 0;
 	int i = 0;
 	if (n[0] == '-')
 	{
